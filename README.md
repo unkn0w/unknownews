@@ -11,4 +11,4 @@ Newsletter pomimo tego, że z natury powinien być czytany w formie e-maila, je
 - [Jako strona internetowa](https://news.mrugalski.pl)
 - [Jako kanał Telegramowy](https://t.me/unknownews_newsletter) [powiadomienia o wydaniach]
 - [Na Facebooku jako fanpage](https://www.facebook.com/UWTEAM.org/) [powiadomienia o wydaniach]
-
+- [Kanał nadawczy na Facebook Messenger](https://m.me/j/AbaL6TdlizP270MB/) [powiadomienia o wydaniach]
